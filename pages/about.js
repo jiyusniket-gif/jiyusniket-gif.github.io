@@ -147,15 +147,15 @@ export function renderAbout() {
       </section>
 
       <section class="section reveal cv-list">
-        <a class="cv-item" href="#timeline" data-nav="timeline">
+        <a class="cv-item" href="#timeline" data-nav-post="50">
           <span class="display h-sm cv-name">한국에스웨이 — 신라호텔 발렛팀</span>
           <span class="muted cv-year">현재</span>
         </a>
-        <a class="cv-item" href="#timeline" data-nav="timeline">
+        <a class="cv-item" href="#timeline" data-nav-post="30">
           <span class="display h-sm cv-name">한국아이큐비아솔루션스 (IQVIA)</span>
           <span class="muted cv-year">2024–2025</span>
         </a>
-        <a class="cv-item" href="#timeline" data-nav="timeline">
+        <a class="cv-item" href="#timeline" data-nav-post="22">
           <span class="display h-sm cv-name">레어웍스 (Rare-works)</span>
           <span class="muted cv-year">2024</span>
         </a>
