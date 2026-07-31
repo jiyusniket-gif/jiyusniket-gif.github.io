@@ -121,7 +121,7 @@ export function renderAbout() {
         </div>
       </section>
       <section class="section reveal cv-list">
-              <a class="cv-item" href="#timeline" data-nav-post="50">
+              <a class="cv-item" href="#timeline" data-nav-post="50-2">
                 <span class="display h-sm cv-name">한국에스웨이 — 신라호텔 발렛팀</span>
                 <span class="muted cv-year">현재</span>
               </a>
@@ -133,7 +133,7 @@ export function renderAbout() {
                 <span class="display h-sm cv-name">레어웍스 (Rare-works)</span>
                 <span class="muted cv-year">2024</span>
               </a>
-            </section>
+       </section>
           
       <section class="section reveal">
         <h2 class="display h-md">Interests</h2><br>

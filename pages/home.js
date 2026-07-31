@@ -8,11 +8,8 @@ export function renderHome() {
         <p class="muted">현장에서 문제를 발견하고, 직접 코드로 구현하고, 사용자 반응으로 다시 고칩니다.</p>
       </section>
 
-      <section class="section reveal" style="margin-top:clamp(24px, 4vw, 48px);">
-        <img src="content/posts/images/etc/main.png" style="width:100%; height:auto; display:block; border-radius:var(--radius-img);">
-      </section>
 
-      <section class="section feature reverse feature-link" data-nav-post="52">
+      <section class="section feature reverse feature-link" data-nav-post="50-1">
         <div class="feature-media reveal">
           <div class="media-sq" style="background-image:url('content/posts/images/50/50-1.png'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
@@ -22,7 +19,7 @@ export function renderHome() {
         </div>
       </section>
 
-      <section class="section feature reverse feature-link" data-nav-post="50">
+      <section class="section feature reverse feature-link" data-nav-post="50-2">
         <div class="feature-media reveal">
           <div class="media-sq" style="background-image:url('content/posts/images/50/50.jpg'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
@@ -32,7 +29,7 @@ export function renderHome() {
         </div>
       </section>
 
-      <section class="section feature reverse feature-link" data-nav-post="53">
+      <section class="section feature reverse feature-link" data-nav-post="50-3">
         <div class="feature-media reveal">
           <div class="media-sq grain g-splatter" style="border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
