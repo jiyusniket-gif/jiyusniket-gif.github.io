@@ -65,12 +65,12 @@ export function renderHome() {
         <h2 class="display h-md">다양한 프로젝트들을 통해 만나보세요</h2>
         </br>
         <div class="gallery">
-          <div class="tile" data-nav-post="20"   style="background-image:url('content/posts/images/20/20.png'); background-size:cover; background-position:center;"><span class="tile-title">사장님이 되고 싶어진 이유</span></div>
           <div class="tile" data-nav-post="42-1" style="background-image:url('content/posts/images/40/gongsamaster_moc.png'); background-size:cover; background-position:center;"><span class="tile-title">공사마스터</span></div>
           <div class="tile" data-nav-post="34"   style="background-image:url('content/posts/images/30/34.png'); background-size:cover; background-position:center;"><span class="tile-title">회의록 작성 프롬프트</span></div>
           <div class="tile" data-nav-post="32"   style="background-image:url('content/posts/images/30/32.png'); background-size:cover; background-position:center;"><span class="tile-title">나에게 매뉴얼이란</span></div>
           <div class="tile" data-nav-post="31"   style="background-image:url('content/posts/images/30/vbaimg.png'); background-size:cover; background-position:center;"><span class="tile-title">서류 자동 배치 매크로</span></div>
-          <div class="tile" data-nav-post="21"   style="background-image:url('content/posts/images/20/21.png'); background-size:cover; background-position:center;"><span class="tile-title">실내건축기사</span></div>
+          <div class="tile" data-nav-post="41"   style="background-image:url('content/posts/images/40/41.png'); background-size:cover; background-position:center;"><span class="tile-title">AI Agent 프로젝트</span></div>
+          <div class="tile" data-nav-post="40"   style="background-image:url('content/posts/images/40/40.png'); background-size:cover; background-position:center;"><span class="tile-title">3일만에 JS 배운 이야기</span></div>
           <div class="tile" data-nav-post="43"   style="background-image:url('content/posts/images/40/43.png'); background-size:cover; background-position:center;"><span class="tile-title">포트폴리오 사이트 만들기</span></div>
         </div>
       </section>
