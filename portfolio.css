@@ -289,6 +289,10 @@
   .bg-nav-link:hover { transform: translateY(-5px); box-shadow: 0 12px 28px -8px rgba(0,0,0,.14); }
   .nav-arrow { font-size: .85em; opacity: .4; }
 
+  .faq-link { cursor: pointer; transition: color .2s var(--ease); }
+  .faq-link:hover { color: var(--ink); }
+  .faq-link:hover .nav-arrow { opacity: .8; }
+
   .feature {
     display: grid;
     grid-template-columns: minmax(140px, 220px) 1fr;

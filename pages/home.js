@@ -24,7 +24,7 @@ export function renderHome() {
           <div class="media-sq" style="background-image:url('content/posts/images/50/50.jpg'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
         <div class="feature-copy reveal">
-          <h2 class="display h-md">기획을<br>코드로 옮길 수 있습니다</h2>
+          <h2 class="display h-md">기획을 코드로 옮길 수 있습니다</h2>
           <p class="muted feature-sub">수기작성에 가까운 업무 배정 프로세스를 재정의하고, Google Apps Script 웹앱으로 직접 설계·구현하기</p>
         </div>
       </section>
@@ -34,15 +34,15 @@ export function renderHome() {
           <div class="media-sq grain g-splatter" style="border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
         <div class="feature-copy reveal">
-          <h2 class="display h-md">감이 아니라<br>반응으로 다시 설계합니다</h2>
+          <h2 class="display h-md">감이 아니라 반응으로 다시 설계합니다</h2>
           <p class="muted feature-sub">테스트 배포에서 사용자 반응을 분석하여 UI와 안내 방식을 전면 수정하기</p>
         </div>
       </section>
 
       <section class="section reveal quote-block">
-        <blockquote class="display h-md">그밖의 직무에 대한 FAQ</blockquote></br>
-        <p class="muted">JAPANESE LANGUAGE PROFICIENCY - 언어는 트레이닝할 수 있지만, 문화를 읽는 감각은 시간이 만든다<span class="nav-arrow">↗</span></p>
-        <p class="muted">BACKGROUND - 제약, 건설, 호스피탈리티,다른 업종 같은 패턴 <span class="nav-arrow">↗</span></p>
+        <blockquote class="display h-md">그밖의 JD와 관련된 FAQ</blockquote></br>
+        <p class="muted faq-link" data-nav-post="51">JAPANESE LANGUAGE PROFICIENCY - 언어는 트레이닝할 수 있지만, 문화를 읽는 감각은 시간이 만든다<span class="nav-arrow">↗</span></p>
+        <p class="muted faq-link" data-nav="timeline">BACKGROUND - 제약, 건설, 호스피탈리티,다른 업종 같은 패턴 <span class="nav-arrow">↗</span></p>
       </section>
 
 
