@@ -3,31 +3,13 @@ export function renderHome() {
     <div class="page wrap">
 
       <section class="section reveal quote-block">
-        <blockquote class="display quote-text">문제를 푸는 비결은 늘 같습니다</blockquote>
+        <blockquote class="display quote-text">문제를 푸는 비결은 늘 같습니다 → 구조를 보는 습관이, 그대로 실행이 됩니다.</blockquote>
         </br>
-        <p class="muted">그리고 저에게는 이미 습관이었습니다.</p>
+        <p class="muted">그리고 저에게는 이미 습관이었습니다 → 현장에서 문제를 발견하고, 직접 코드로 구현하고, 사용자 반응으로 다시 고칩니다.</p>
       </section>
 
       <section class="section reveal" style="margin-top:clamp(24px, 4vw, 48px);">
         <img src="content/posts/images/etc/main.png" style="width:100%; height:auto; display:block; border-radius:var(--radius-img);">
-      </section>
-
-      <section class="section grid cols-3" style="margin-top:clamp(24px, 4vw, 48px);">
-        <a class="reveal col-item" href="#post/51" data-nav-post="51">
-          <hr class="rule" />
-          <h3 class="h-sm">보고, 듣고</h3>
-          <p class="muted">경영 전략적 시선으로</br>관찰하고, 듣기</p>
-        </a>
-        <a class="reveal col-item" href="#post/32" data-nav-post="32">
-          <hr class="rule" />
-          <h3 class="h-sm">쓰고</h3>
-          <p class="muted">문서화를 통해 정보를</br>구체화하고 컨센서스를 형성</p>
-        </a>
-        <a class="reveal col-item" href="#post/41" data-nav-post="41">
-          <hr class="rule" />
-          <h3 class="h-sm">만들기</h3>
-          <p class="muted">AI 기술을 활용하여 반복적인 업무를 자동화하고, 더 나은 프로세스 만들기</p>
-        </a>
       </section>
 
       <section class="section feature feature-link" data-nav-post="50">
