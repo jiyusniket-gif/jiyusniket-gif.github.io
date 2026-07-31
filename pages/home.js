@@ -8,8 +8,7 @@ export function renderHome() {
         <p class="muted">안녕하세요! 전략적 사고 기반의 AI Product Owner지망생 '송지유'입니다.<br>대표 프로젝트 사례로 직무에 대한 경험을 공유합니다.</p>
       </section>
 
-
-      <section class="section feature reverse feature-link" data-nav-post="50-1">
+      <section class="section feature reverse feature-link" data-nav-post="50-1" style="margin-top:clamp(28px, 4vw, 48px);">
         <div class="feature-media reveal">
           <div class="media-sq" style="background-image:url('content/posts/images/50/50-1.png'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
@@ -45,13 +44,16 @@ export function renderHome() {
         <p class="muted faq-link" data-nav="timeline">BACKGROUND - 제약, 건설, 호스피탈리티,다른 업종 같은 패턴 <span class="nav-arrow">↗</span></p>
       </section>
 
-
-      <section class="section reveal quote-block">
-        <p class="eyebrow">FOR CHANNEL TALK</p>
-        <blockquote class="display h-md">AI Product Owner 로서 가장 처음 하고싶은 일</blockquote>
-        </br>
-        <p class="muted">지원 준비를 하며 채널톡의 ALF 도입 경로를 살펴봤습니다. 공개된 정보만으로 관찰한 가설이지만, 그 제안을 1페이지로 정리했습니다.</p>
+      <section class="section feature reverse feature-link" data-nav-post="53">
+        <div class="feature-media reveal">
+          <div class="media-sq grain g-splatter" style="border-radius:var(--radius-img); overflow:hidden;"></div>
+        </div>
+        <div class="feature-copy reveal">
+          <h2 class="display h-md">FOR CHANNEL TALK</h2>
+          <p class="muted feature-sub">지원 준비를 하며 채널톡의 ALF 도입 경로를 살펴봤습니다. <br>AI Product Owner 로서 가장 처음 하고싶은 일을 소개합니다.</p>
+        </div>
       </section>
+
 
     </div>
   `;
