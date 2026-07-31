@@ -39,7 +39,7 @@ export function renderHome() {
         </div>
       </section>
 
-      <section class="section feature reverse feature-link" data-nav-post="54">
+      <section class="section feature reverse feature-link" data-nav-post="51">
         <div class="feature-media reveal">
           <div class="media-sq" style="border-radius:var(--radius-img); overflow:hidden; display:flex; align-items:center;">
             <img src="content/posts/images/etc/profil.png" style="width:100%; height:auto; display:block;">
