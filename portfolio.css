@@ -291,17 +291,17 @@
 
   .feature {
     display: grid;
-    grid-template-columns: 1fr 1.05fr;
+    grid-template-columns: minmax(140px, 220px) 1fr;
     align-items: center;
-    gap: clamp(32px, 6vw, 90px);
+    gap: clamp(20px, 3vw, 40px);
   }
-  .feature-sub { margin: 16px 0 6px; max-width: 38ch; }
-  .media-sq    { width: 100%; aspect-ratio: 1 / 0.9; }
+  .feature-sub { margin: 10px 0 4px; max-width: 42ch; }
+  .media-sq    { width: 100%; aspect-ratio: 1 / 1; }
 
   .feature-link {
     cursor: pointer;
     border-radius: 16px;
-    padding: clamp(20px, 3vw, 36px);
+    padding: clamp(12px, 1.6vw, 20px);
     transition: transform .25s var(--ease), box-shadow .25s var(--ease);
   }
   .feature-link:hover {

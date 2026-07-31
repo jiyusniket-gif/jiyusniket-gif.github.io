@@ -12,13 +12,13 @@ export function renderHome() {
         <img src="content/posts/images/etc/main.png" style="width:100%; height:auto; display:block; border-radius:var(--radius-img);">
       </section>
 
-      <section class="section feature feature-link" data-nav-post="52">
+      <section class="section feature reverse feature-link" data-nav-post="52">
+        <div class="feature-media reveal">
+          <div class="media-sq" style="background-image:url('content/posts/images/50/50-1.png'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
+        </div>
         <div class="feature-copy reveal">
           <h2 class="display h-md">회의실이 아니라<br>현장에서 문제를 봅니다</h2>
           <p class="muted feature-sub">"구글폼만 고쳐달라"는 요청 뒤에서, 헬퍼·실무진·관리자 세 층위를 직접 관찰해 진짜 병목을 다시 짚었습니다.</p>
-        </div>
-        <div class="feature-media reveal">
-          <div class="media-sq" style="background-image:url('content/posts/images/50/50-1.png'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
       </section>
 
@@ -32,13 +32,13 @@ export function renderHome() {
         </div>
       </section>
 
-      <section class="section feature feature-link" data-nav-post="53">
+      <section class="section feature reverse feature-link" data-nav-post="53">
+        <div class="feature-media reveal">
+          <div class="media-sq grain g-splatter" style="border-radius:var(--radius-img); overflow:hidden;"></div>
+        </div>
         <div class="feature-copy reveal">
           <h2 class="display h-md">감이 아니라<br>반응으로 다시 설계합니다</h2>
           <p class="muted feature-sub">배포 전 연령대·디지털 친화도별 사용자 테스트에서 텍스트 가이드 이해도가 낮다는 걸 발견해, UI와 안내 방식을 전면 수정했습니다.</p>
-        </div>
-        <div class="feature-media reveal">
-          <div class="media-sq grain g-splatter" style="border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
       </section>
 
