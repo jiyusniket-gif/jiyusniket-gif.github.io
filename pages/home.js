@@ -30,7 +30,7 @@ export function renderHome() {
         </a>
       </section>
 
-      <section class="section feature feature-link" data-nav-post="32">
+      <section class="section feature feature-link" data-nav-post="50">
         <div class="feature-copy reveal">
           <h2 class="display h-md">발렛 주차장의 혼란을, <br>구조로 바꿨습니다</h2>
           <p class="muted feature-sub">수기작성에 가까운 업무 배정 프로세스를 재정의하고 웹앱으로 만들어 지금 현장에 도입 예정입니다.</p>
