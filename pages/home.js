@@ -60,19 +60,20 @@ export function renderHome() {
         <p class="muted longform-body">제약 콜센터의 오퍼레이션, 발주처 및 관계자와 계속해서 소통해야 하는 건설 시공 관리, 직접 CS를 봐야 했던 호텔과 내부고객 CS를 처리하는 호텔 발렛 운영까지 서로 완전히 다른 업종이었습니다. 하지만 저는 매번 같은 순서로 일했습니다 — 현장에서 문제를 발견하고, 구조화하고, 반복되는 일을 시스템으로 바꿔온 이력입니다. 어떤 전문가와도 그들의 언어로 대화하고 그 안의 구조를 함께 찾아낼 수 있습니다. 일본어 능력까지 더해, 언어의 경계 없이 협업합니다. 제가 걸어온 길을 소개합니다.<span class="nav-arrow">↗</span></p>
       </section>
 
-
-      <section class="section reveal">
-        <h2 class="display h-md">다양한 프로젝트들을 통해 만나보세요</h2>
-        </br>
-        <div class="gallery">
-          <div class="tile" data-nav-post="42-1" style="background-image:url('content/posts/images/40/gongsamaster_moc.png'); background-size:cover; background-position:center;"><span class="tile-title">공사마스터</span></div>
-          <div class="tile" data-nav-post="34"   style="background-image:url('content/posts/images/30/34.png'); background-size:cover; background-position:center;"><span class="tile-title">회의록 작성 프롬프트</span></div>
-          <div class="tile" data-nav-post="32"   style="background-image:url('content/posts/images/30/32.png'); background-size:cover; background-position:center;"><span class="tile-title">나에게 매뉴얼이란</span></div>
-          <div class="tile" data-nav-post="31"   style="background-image:url('content/posts/images/30/vbaimg.png'); background-size:cover; background-position:center;"><span class="tile-title">서류 자동 배치 매크로</span></div>
-          <div class="tile" data-nav-post="41"   style="background-image:url('content/posts/images/40/41.png'); background-size:cover; background-position:center;"><span class="tile-title">AI Agent 프로젝트</span></div>
-          <div class="tile" data-nav-post="40"   style="background-image:url('content/posts/images/40/40.png'); background-size:cover; background-position:center;"><span class="tile-title">3일만에 JS 배운 이야기</span></div>
-          <div class="tile" data-nav-post="43"   style="background-image:url('content/posts/images/40/43.png'); background-size:cover; background-position:center;"><span class="tile-title">포트폴리오 사이트 만들기</span></div>
-        </div>
+      <section class="section reveal bg-nav-link">
+        <p class="eyebrow">CHANNEL TALK</p>
+        <h2 class="display h-md">이 습관을, 채널톡에도 적용해봤습니다</h2>
+        <p class="muted longform-body">지원 준비를 하며 채널톡의 Alf 도입 경로를 살펴봤습니다. 셀프서비스와 전문가 컨설팅(50~300만원대) 사이, 비어있는 자리가 보였습니다. 공개된 정보만으로 관찰한 가설이지만, 그 갭과 제안을 1페이지로 정리했습니다.</p>
+        <details style="margin-top:20px;">
+          <summary>펼쳐서 보기</summary>
+          <iframe
+            src="content/posts/files/channel-alf-onboarding-proposal.pdf"
+            width="100%"
+            height="780"
+            style="border:none; border-radius:10px; margin-top:12px;">
+          </iframe>
+        </details>
+        <a href="content/posts/files/channel-alf-onboarding-proposal.pdf" target="_blank" style="display:inline-block; margin-top:12px;">PDF 다운로드</a>
       </section>
 
     </div>
