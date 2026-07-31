@@ -5,7 +5,7 @@ export function renderHome() {
       <section class="section reveal quote-block">
         <blockquote class="display quote-text">구조를 보는 습관이, 그대로 실행이 됩니다.</blockquote>
         </br>
-        <p class="muted">안녕하세요! 전략적 사고 기반의 AI Product Owner지망생 '송지유'입니다.<br>대표 프로젝트 사례로 직무에 대한 경험을 공유합니다.</p>
+        <p class="muted">안녕하세요!<br>대표 프로젝트 사례로 직무에 대한 경험을 공유합니다.</p>
       </section>
 
       <section class="section feature reverse feature-link" data-nav-post="50-1" style="margin-top:clamp(28px, 4vw, 48px);">
@@ -50,7 +50,7 @@ export function renderHome() {
         </div>
         <div class="feature-copy reveal">
           <h2 class="display h-md">FOR CHANNEL TALK</h2>
-          <p class="muted feature-sub">지원 준비를 하며 채널톡의 ALF 도입 경로를 살펴봤습니다. <br>AI Product Owner 로서 가장 처음 하고싶은 일을 소개합니다.</p>
+          <p class="muted feature-sub">지원 준비를 하며 채널톡의 ALF 도입 경로를 살펴봤습니다. <br>AI Product Owner 로서 가장 처음 하고싶은 일을 채널톡과 이야기하고 싶습니다.</p>
         </div>
       </section>
 
