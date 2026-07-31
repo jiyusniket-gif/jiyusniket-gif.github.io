@@ -3,9 +3,9 @@ export function renderHome() {
     <div class="page wrap">
 
       <section class="section reveal quote-block">
-        <blockquote class="display quote-text">문제를 푸는 비결은 늘 같습니다 → 구조를 보는 습관이, 그대로 실행이 됩니다.</blockquote>
+        <blockquote class="display quote-text">구조를 보는 습관이, 그대로 실행이 됩니다.</blockquote>
         </br>
-        <p class="muted">그리고 저에게는 이미 습관이었습니다 → 현장에서 문제를 발견하고, 직접 코드로 구현하고, 사용자 반응으로 다시 고칩니다.</p>
+        <p class="muted">현장에서 문제를 발견하고, 직접 코드로 구현하고, 사용자 반응으로 다시 고칩니다.</p>
       </section>
 
       <section class="section reveal" style="margin-top:clamp(24px, 4vw, 48px);">
