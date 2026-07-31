@@ -12,25 +12,45 @@ export function renderHome() {
         <img src="content/posts/images/etc/main.png" style="width:100%; height:auto; display:block; border-radius:var(--radius-img);">
       </section>
 
-      <section class="section feature feature-link" data-nav-post="50">
+      <section class="section feature feature-link" data-nav-post="52">
         <div class="feature-copy reveal">
-          <h2 class="display h-md">발렛 주차장의 혼란을, <br>구조로 바꿨습니다</h2>
-          <p class="muted feature-sub">수기작성에 가까운 업무 배정 프로세스를 재정의하고 웹앱으로 만들어 지금 현장에 도입 예정입니다.</p>
+          <h2 class="display h-md">회의실이 아니라<br>현장에서 문제를 봅니다</h2>
+          <p class="muted feature-sub">"구글폼만 고쳐달라"는 요청 뒤에서, 헬퍼·실무진·관리자 세 층위를 직접 관찰해 진짜 병목을 다시 짚었습니다.</p>
         </div>
         <div class="feature-media reveal">
-          <div class="media-sq" style="background-image:url('content/posts/images/50/50.jpg'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
+          <div class="media-sq" style="background-image:url('content/posts/images/50/50-1.png'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
       </section>
 
-      <section class="section feature reverse feature-link" data-nav-post="41">
+      <section class="section feature reverse feature-link" data-nav-post="50">
+        <div class="feature-media reveal">
+          <div class="media-sq" style="background-image:url('content/posts/images/50/50.jpg'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
+        </div>
+        <div class="feature-copy reveal">
+          <h2 class="display h-md">기획을<br>코드로 옮길 수 있습니다</h2>
+          <p class="muted feature-sub">수기작성에 가까운 업무 배정 프로세스를 재정의하고, Google Apps Script 웹앱으로 직접 설계·구현해 시범 운영을 앞두고 있습니다.</p>
+        </div>
+      </section>
+
+      <section class="section feature feature-link" data-nav-post="53">
+        <div class="feature-copy reveal">
+          <h2 class="display h-md">감이 아니라<br>반응으로 다시 설계합니다</h2>
+          <p class="muted feature-sub">배포 전 연령대·디지털 친화도별 사용자 테스트에서 텍스트 가이드 이해도가 낮다는 걸 발견해, UI와 안내 방식을 전면 수정했습니다.</p>
+        </div>
+        <div class="feature-media reveal">
+          <div class="media-sq grain g-splatter" style="border-radius:var(--radius-img); overflow:hidden;"></div>
+        </div>
+      </section>
+
+      <section class="section feature reverse feature-link" data-nav-post="54">
         <div class="feature-media reveal">
           <div class="media-sq" style="border-radius:var(--radius-img); overflow:hidden; display:flex; align-items:center;">
-            <img src="content/posts/images/40/41.png" style="width:100%; height:auto; display:block;">
+            <img src="content/posts/images/etc/profil.png" style="width:100%; height:auto; display:block;">
           </div>
         </div>
         <div class="feature-copy reveal">
-          <h2 class="display h-md">챗봇을 사용한</br>블로그 자동발행</h2>
-          <p class="muted feature-sub">텔레그램으로 맛집 인터뷰를 나누면, Claude API가 정리하고 검토를 거쳐 영어·일본어로 발행하는 에이전트.</p>
+          <h2 class="display h-md">언어는 트레이닝할 수 있지만,<br>문화를 읽는 감각은 시간이 만든다</h2>
+          <p class="muted feature-sub">구조화 습관은 일하는 방식만이 아니라 소통 방식에도 적용됩니다. JLPT N1, 원어민에게 3.5년간 배운 일본어로 문화의 구조까지 읽어냅니다.</p>
         </div>
       </section>
 
