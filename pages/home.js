@@ -56,8 +56,8 @@ export function renderHome() {
 
       <section class="section reveal bg-nav-link" data-nav="timeline">
         <p class="eyebrow">BACKGROUND</p>
-        <h2 class="display h-md">제약, 건설, 호스피탈리티 — CS경험</h2>
-        <p class="muted longform-body">제약 콜센터의 오퍼레이션, 발주처 및 관계자과 계속해서 소통해야하는 건설 시공 관리, 직접 CS를 봐야했던 호텔과 내부고객 CS를 처리하는 호텔 발렛 운영까지 서로 완전히 다른 업종이었습니다. 그럼에도 저는 여전히 현장을 구조적으로 관찰하고, 매뉴얼로 남기고, 반복되는 일을 시스템으로 바꿉니다. 어떤 전문가와도 그들의 언어로 대화하고 그 안의 구조를 함께 찾아낼 수 있습니다. 일본어 능력까지 더해, 언어의 경계 없이 협업합니다. 제가 걸어온 길을 소개합니다.<span class="nav-arrow">↗</span></p>
+        <h2 class="display h-md">제약, 건설, 호스피탈리티 — 다른 업종, 같은 패턴</h2>
+        <p class="muted longform-body">제약 콜센터의 오퍼레이션, 발주처 및 관계자와 계속해서 소통해야 하는 건설 시공 관리, 직접 CS를 봐야 했던 호텔과 내부고객 CS를 처리하는 호텔 발렛 운영까지 서로 완전히 다른 업종이었습니다. 하지만 저는 매번 같은 순서로 일했습니다 — 현장에서 문제를 발견하고, 구조화하고, 반복되는 일을 시스템으로 바꿔온 이력입니다. 어떤 전문가와도 그들의 언어로 대화하고 그 안의 구조를 함께 찾아낼 수 있습니다. 일본어 능력까지 더해, 언어의 경계 없이 협업합니다. 제가 걸어온 길을 소개합니다.<span class="nav-arrow">↗</span></p>
       </section>
 
 
