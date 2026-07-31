@@ -295,7 +295,7 @@
     align-items: center;
     gap: clamp(20px, 3vw, 40px);
   }
-  .feature-sub { margin: 10px 0 4px; max-width: 42ch; }
+  .feature-sub { margin: 10px 0 4px; max-width: none; }
   .media-sq    { width: 100%; aspect-ratio: 1 / 1; }
 
   .feature-link {
