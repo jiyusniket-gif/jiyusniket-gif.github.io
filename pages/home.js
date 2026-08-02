@@ -10,7 +10,7 @@ export function renderHome() {
 
       <section class="section feature reverse feature-link" data-nav-post="50-1" style="margin-top:clamp(28px, 4vw, 48px);">
         <div class="feature-media reveal">
-          <div class="media-sq" style="background-image:url('content/posts/images/50/50-1.png'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
+          <div class="media-sq" style="background-image:url('content/posts/images/etc/home_1.png'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
         <div class="feature-copy reveal">
           <h2 class="display h-md">현장에서 문제를 봅니다</h2>
@@ -20,7 +20,7 @@ export function renderHome() {
 
       <section class="section feature reverse feature-link" data-nav-post="50-2" style="margin-top:clamp(28px, 4vw, 48px);">
         <div class="feature-media reveal">
-          <div class="media-sq" style="background-image:url('content/posts/images/50/50.jpg'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
+          <div class="media-sq" style="background-image:url('content/posts/images/etc/home_2.png'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
         <div class="feature-copy reveal">
           <h2 class="display h-md">기획을 코드로 옮길 수 있습니다</h2>
@@ -30,7 +30,7 @@ export function renderHome() {
 
       <section class="section feature reverse feature-link" data-nav-post="50-3" style="margin-top:clamp(28px, 4vw, 48px);">
         <div class="feature-media reveal">
-          <div class="media-sq grain g-splatter" style="border-radius:var(--radius-img); overflow:hidden;"></div>
+          <div class="media-sq" style="background-image:url('content/posts/images/etc/home_3.png'); background-size:cover; background-position:center; border-radius:var(--radius-img); overflow:hidden;"></div>
         </div>
         <div class="feature-copy reveal">
           <h2 class="display h-md">감이 아니라 반응으로 다시 설계합니다</h2>
