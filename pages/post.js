@@ -41,7 +41,7 @@ export async function renderPost(post) {
       </header>
 
       ${post.thumbnail
-        ? `<img class="post-cover-img reveal" src="${post.thumbnail}" alt="">`
+        ? `<img class="post-cover-img reveal" src="${post.thumbnail}" alt=""${post['cover-style'] ? ` style="${post['cover-style']}"` : ''}>`
         : `<div class="post-cover grain ${post.gradient} reveal"></div>`
       }
 
