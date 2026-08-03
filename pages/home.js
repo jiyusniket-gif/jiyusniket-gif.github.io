@@ -41,7 +41,7 @@ export function renderHome() {
       <section class="section reveal quote-block">
         <blockquote class="display h-md">그밖의 JD와 관련된 FAQ</blockquote></br>
         <p class="muted faq-link" data-nav-post="51">JAPANESE LANGUAGE PROFICIENCY - 언어는 트레이닝할 수 있지만, 문화를 읽는 감각은 시간이 만든다<span class="nav-arrow">↗</span></p>
-        <p class="muted faq-link" data-nav="timeline">BACKGROUND - 제약, 건설, 호스피탈리티,다른 업종 같은 패턴 <span class="nav-arrow">↗</span></p>
+        <p class="muted faq-link" data-nav-post="52">BACKGROUND - 제약, 건설, 호스피탈리티,다른 업종 같은 패턴 <span class="nav-arrow">↗</span></p>
       </section>
 
       <section class="section feature reverse feature-link" data-nav-post="53">
